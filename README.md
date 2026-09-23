@@ -44,6 +44,8 @@ export OPENROUTER_API_KEY="your-api-key-here"
 python main.py
 
 ```
+<img width="936" height="267" alt="image" src="https://github.com/user-attachments/assets/8dcc27e7-88d4-4891-8799-f670e6afe106" />
+
 
 
 * **Run Unit Test Suite (100% Offline & Free via Mocks):**
@@ -51,6 +53,8 @@ python main.py
 pytest test_main.py
 
 ```
+
+<img width="968" height="267" alt="WhatsApp Image 2026-09-23 at 6 13 50 PM" src="https://github.com/user-attachments/assets/2039a714-1d6e-4f1e-9bfa-52294c6975d5" />
 
 ## Test Results
 
