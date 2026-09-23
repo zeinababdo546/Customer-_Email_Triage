@@ -1,4 +1,4 @@
-# Prompt-Powered Microservice: Customer Email Triage
+## Prompt-Powered Microservice: Customer Email Triage
 
 A lightweight Python microservice that ingests unorganized customer emails and extracts clean, validated JSON using Structured Outputs and Pydantic schemas.
 
